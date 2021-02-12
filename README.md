@@ -1,7 +1,7 @@
 # Pi-introduction
 **斯坦福大学一批博士创业者创立了一个新的数字货币＂Pi＂，仍然处于初始阶段，零投资，除了每天挖一下矿（点击1-2次），不存在风险，未来可能公开交易。**
 
-**官方网站：https://minepi.com/**
+**官方网站：[链接](https://minepi.com/)**
 
 ## 加入的方法很简单
 
@@ -18,6 +18,6 @@
 
 **安卓的apk文件：**
 
-链接：https://pan.baidu.com/s/1ngPxiQbtcpb8Oxm7iY1g2w 
+链接：[百度网盘](https://pan.baidu.com/s/1ngPxiQbtcpb8Oxm7iY1g2w) 
 
 提取码：cfir 
