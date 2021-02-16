@@ -19,7 +19,7 @@
 **[官方网站](https://node.minepi.com/)**
 
 **安卓的apk文件：**
-- [Download URL](https://minepi.com/#download)
-- [Straight Download](https://d1bdkd0g1kai9c.cloudfront.net/apk/last.apk)
+- [下载网址](https://minepi.com/#download)
+- [直接下载](https://d1bdkd0g1kai9c.cloudfront.net/apk/last.apk)
 
 ## 注意：注册成功之后记得每天按时点“⚡”，以保证你能够持续积累着Pi
