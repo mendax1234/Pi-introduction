@@ -52,4 +52,5 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 
 ### 下载链接
 [官网](https://minepi.com/#download)
+
 [官方安卓apk文件](https://d1bdkd0g1kai9c.cloudfront.net/apk/last.apk)
