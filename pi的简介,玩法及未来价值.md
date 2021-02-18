@@ -17,15 +17,21 @@ Pi的核心团队由来自全球各地的斯坦福大学毕业生组成，其中
 <img src="https://img-blog.csdnimg.cn/20210218131546127.jpg#pic_center" width="350px">
 </div>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218131546127.jpg#pic_center)
+<div align="center">
+<img src="https://img-blog.csdnimg.cn/2021021813155558.jpg#pic_center" width="350px">
+</div>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2021021813155558.jpg#pic_center)
+<div align="center">
+<img src="https://img-blog.csdnimg.cn/20210218131749875.jpg#pic_center" width="350px">
+</div>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218131749875.jpg#pic_center)
+<div align="center">
+<img src="https://img-blog.csdnimg.cn/20210218131800847.jpg#pic_center" width="350px">
+</div>
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218131800847.jpg#pic_center)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210218131810430.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTQ5ODE3Mw==,size_16,color_FFFFFF,t_70#pic_center)
+<div align="center">
+<img src="https://img-blog.csdnimg.cn/20210218131810430.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTQ5ODE3Mw==,size_16,color_FFFFFF,t_70#pic_center" width="350px">
+</div>
 
 ### 第二步:引导
 按提示,一直点击按钮就行,这是最简单的步骤
